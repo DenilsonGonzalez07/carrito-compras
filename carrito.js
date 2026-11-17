@@ -161,4 +161,4 @@ if (typeof document !== 'undefined') {
   renderizarCarrito();
   actualizarTotal();
 }
-//Codigo Resuelto
+//Codigo resuelto
